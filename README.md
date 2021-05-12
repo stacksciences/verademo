@@ -1,5 +1,7 @@
 # VeraDemo - Blab-a-Gag
 
+Add comment here !
+
 ## About
 
 Blab-a-Gag is a fairly simple forum type application which allows:
